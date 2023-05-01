@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #e10d32;
+    letter-spacing: 2px;
+    font-family: 'Orbitron', sans-serif;
+    margin-bottom: 2rem;
+}
+
+p {
+    color: whitesmoke;
+    font-family: 'Tilt Neon', cursive;
+}
+
+a:hover {
+    opacity: 0.8;
+    color: rgb(255, 93, 56);
+}
+
+a {
+    text-decoration: none;
+}
+
+nav a {
+    color: #e10d32;
+    font-family: 'Orbitron', sans-serif;
+}
+
+nav {
+
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+}
+
+header {
+   
+    padding: 1rem;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+.contentpics {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+body {
+    background-color: #000000;
+}
+
+
+.textcontent {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.content1 {
+
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.content2 {
+
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.content3 {
+
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.content4 {
+
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.content5 {
+
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.content6 {
+
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+
+.footer {
+    background-color: #000000;
+    margin: 0.5rem;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+footer p {
+    margin: 0.5rem;
+    padding: 0.35rem;
+}
+
+footer a {
+
+    color: #e10d32;
+    margin: 0.75rem;
+    padding: 0.35rem;
+    font-family: 'Orbitron', sans-serif;
+
+}
